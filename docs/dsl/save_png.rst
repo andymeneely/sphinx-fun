@@ -16,4 +16,6 @@ definition
 Examples
 --------
 
-<script src="https://gist.github.com/andymeneely/d2bb2eb028b27cf1dace.js"></script>
+.. raw:: html
+
+  <script src="https://gist.github.com/andymeneely/d2bb2eb028b27cf1dace.js"></script>
