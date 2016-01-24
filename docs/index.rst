@@ -5,9 +5,10 @@ This is Foo's Documentation
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :glob:
 
-   dsl/save_png
+   dsl/*
 
 DSL Methods
 ===========
