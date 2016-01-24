@@ -7,7 +7,7 @@ Contents:
 .. toctree::
    :maxdepth: 1
 
-   dsl/save_png
+   dsl/*
 
 DSL Methods
 ===========
